@@ -1,16 +1,30 @@
-## Hi there 👋
-
-<!--
-**Delgee/delgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+    height=200 align="center"
+  />
+  <source
+    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height=200 align="center"
+  />
+  <img src="github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+    height=200 align="center"
+  />
+</picture>
+<picture>
+  <source
+    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+    height=200 align="center"
+  />
+  <source
+    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height=200 align="center"
+  />
+  <img src="github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true"
+    height=200 align="center"
+  />
+</picture>
