@@ -1,30 +1,30 @@
 <picture>
   <source
-    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
     height=200 align="center"
   />
   <source
-    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height=200 align="center"
   />
-  <img src="github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+  <img src="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
     height=200 align="center"
   />
 </picture>
 <picture>
   <source
-    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
     height=200 align="center"
   />
   <source
-    srcset="github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height=200 align="center"
   />
-  <img src="github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true"
+  <img src="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&card_width=320&hide_border=true"
     height=200 align="center"
   />
 </picture>
