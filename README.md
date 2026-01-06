@@ -39,26 +39,32 @@ I build scalable, reliable, production-grade web systems for fintech and data-he
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&v=2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true&v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true" alt="Delgee's GitHub stats"/>
+  <img
+    src="https://github-readme-stats-git-master-delgees-projects.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true&v=2"
+    alt="Delgee's GitHub stats"
+  />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true&theme=dark&v=2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true"
+    srcset="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true&v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true&v=2"
+    alt="Top languages"
+  />
 </picture>
 
 ---
