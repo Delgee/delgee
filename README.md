@@ -61,8 +61,6 @@ I build scalable, reliable, production-grade web systems for fintech and data-he
   <img src="https://github-readme-stats-git-master-delgees-projects.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true" alt="Top languages"/>
 </picture>
 
-> Note: If the stat cards don't load immediately on GitHub, try opening the image URL directly to confirm service availability — sometimes the rendering service is temporarily unavailable.
-
 ---
 
 ## Contact & Availability ✉️
