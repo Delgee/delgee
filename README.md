@@ -1,78 +1,22 @@
-# Hi, I'm Delgee 👋
+# Delegjunai Battur
 
-**Senior Full-Stack Software Engineer** • 12+ years • Remote Contractor
+Backend engineer, 13 years, most of it on payment systems a country runs on. Node.js and TypeScript.
+Ulaanbaatar, UTC+8. Remote as a contractor or through an EOR.
 
-[![GitHub followers](https://img.shields.io/github/followers/delgee?label=Follow&style=social)](https://github.com/delgee)
+## Where the work is
 
----
+Almost all of it is in employer repos. The contribution graph counts those commits without naming them.
+The public part:
 
-## About
+- [UN-OCHA/hpc-api](https://github.com/UN-OCHA/hpc-api) and [hpc-api-core](https://github.com/UN-OCHA/hpc-api-core): the API behind FTS, the UN's public record of humanitarian funding. Two years, 2023 to 2025, remote contractor.
+- Qpay Mongolia, 2019 to 2022: one of the tech leads who rebuilt the country's largest payment processor from a Java and Oracle monolith into 40+ Node.js services on Kubernetes, 2M users, 70,000 merchants. Card vault on our own HSM, PCI-DSS Level 1. Private repos.
+- A QR payment switch between banks and wallets, 2022 to 2023: ISO 8583 codec written from the spec, live pilot in 14 months. Private repos.
 
-I build scalable, reliable, production-grade web systems for fintech and data-heavy platforms. I have 12+ years of hands-on experience and 2+ years working remotely as an individual contractor, collaborating with global teams across time zones. I focus on clean architecture, maintainability, and delivering measurable business value.
+## Stack
 
----
+TypeScript, Node.js, PostgreSQL, Redis, Kubernetes, React. Python and Java where the work needs them.
+ISO 8583, EMVCo QR, PCI-DSS.
 
-## Tech & Skills 🔧
+## Contact
 
-**Languages:** JavaScript, TypeScript
-
-**Frontend:** React, Next.js, Tailwind
-
-**Backend:** Node.js, Express, NestJS
-
-**Databases & Storage:** PostgreSQL, MongoDB, Redis, Elasticsearch
-
-**Infrastructure & DevOps:** AWS, Docker, CI/CD, Linux
-
-**Practices:** Scalable system design, REST API design, TDD, Agile
-
----
-
-## Key Highlights ✅
-
-- Fintech — built and scaled payment and QR-based systems used at national scale
-- Large-scale data systems — designed analytics and reporting platforms for decision-makers
-
----
-
-## GitHub Stats 📈
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&v=2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true&v=2"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats-pi-indol-24.vercel.app/api?username=delgee&show_icons=true&include_all_commits=true&hide_border=true&v=2"
-    alt="Delgee's GitHub stats"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true&theme=dark&v=2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true&v=2"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=delgee&layout=compact&langs_count=8&hide_border=true&v=2"
-    alt="Top languages"
-  />
-</picture>
-
----
-
-## Contact & Availability ✉️
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/delgee-b-09545412b)
-
-- **Open to:** Remote contract roles and long-term freelance engagements
-
-Thanks for stopping by 😊
+delgee0527@gmail.com · [linkedin.com/in/delgee](https://www.linkedin.com/in/delgee)
